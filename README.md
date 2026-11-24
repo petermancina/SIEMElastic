@@ -5,7 +5,7 @@ This Elastic SIEM dashboard provides an at-a-glance view of VPN activity and pot
 
 <p align="center">
 <br/>
-<img src="https://i.imgur.com/y4cFMRQ.png" height="100%" width="100%" alt="Read the file contents"/>
+<img src="https://i.imgur.com/y4cFMRQ.png" height="100%" width="100%" alt="Elastic SIEM Dashboard"/>
 </p>
 
 
